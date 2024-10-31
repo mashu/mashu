@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashu&layout=compact&theme=radical)](https://github.com/mashu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashu&layout=compact&theme=radical)](https://github.com/mashu/)
 
 ### Tools I enjoy
 [![](https://img.shields.io/badge/OS-Debian-informational?style=for-the-badge&logo=debian&logoColor=white&color=cc241d)](https://www.debian.org/)
