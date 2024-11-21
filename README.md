@@ -1,3 +1,6 @@
+## About me
+Bioinformatician with a focus on computational immunology and machine learning. Currently developing deep learning models in Flux/Julia for antibody sequence classification from next-generation sequencing data. Passionate about leveraging AI to advance our understanding of adaptive immunity.
+
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashu&layout=compact&theme=radical)](https://github.com/mashu/)
