@@ -1,5 +1,10 @@
-## About me
-Bioinformatician with a focus on computational immunology and machine learning. Currently developing deep learning models in Flux/Julia for antibody sequence classification from next-generation sequencing data. Passionate about leveraging AI to advance our understanding of adaptive immunity.
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?hl=en&user=hIJH-zUAAAAJ)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/mateuszkaduk/)
+
+
+### Hello there!
+
+I am a Bioinformatician at Karolinska Institutet, Stockholm, Sweden. Currently developing deep learning models in Flux/Julia for antibody sequence classification from next-generation sequencing data and germline inference. Passionate about leveraging AI to advance our understanding of adaptive immunity.
 
 ## 📊 GitHub Stats
 
